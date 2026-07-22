@@ -405,3 +405,99 @@ Her weaknesses are notable: a QQAAB card deck makes sustained single-target dama
 **Skill priority:** Monstrous Strength (2) → Mystic Eyes (1) → Blood Fort Andromeda (3, can stay at Lv.1 for farming).
 
 ---
+
+# 👑 Assassin of the Nightless City — Servant #170
+
+<img src="https://static.mana.wiki/grandorder/170_Assassin_of_the_Nightless_City_Icon.png" width="120" align="right">
+
+| | |
+|---|---|
+| **Class** | ![Assassin](https://static.mana.wiki/grandorder/FGOClassIcon_3_6_Gold_Assassin.png) Assassin |
+| **Rarity** | ⭐⭐⭐⭐ (A) |
+| **Attribute** | Human |
+| **Alignment** | Lawful Evil |
+| **Alias** | Wu Zetian, Dowager, Empress Dowager, Empress Regnant, Holy Empress Zetian |
+| **Illustrator** | Takehito Harada |
+| **Voice Actor** | Shiori Izawa |
+| **NA Release** | 2019-06-21 |
+
+---
+
+## 📊 Stats (Stage 4)
+
+| Stat | Base | Max | Lv 100 | Lv 120 |
+|---|---:|---:|---:|---:|
+| **ATK** | 1,496 | 8,981 | 10,874 | 12,768 |
+| **HP** | 1,750 | 10,942 | 13,267 | 15,593 |
+
+**Passive Ratios**
+| | |
+|---|---:|
+| NP Gain | 0.87% |
+| NP when Attacked | 4% |
+| Star Absorption | 102% |
+| Star Generation per Hit | 25.5% |
+| Instant Death Chance | 38.5% |
+
+**Command Cards:** 🟢 Quick ×3 · 🔵 Arts ×3 · 🟠 Buster ×3 · ⬛ Extra ×3 · NP: Quick
+
+**Parameters:** STR D · END E · AGL A · MP B · LUK A · NP B
+
+---
+
+## 🃏 Traits
+Female, Humanoid, King, Servant, Weak to Enuma Elish, Child, Hominidae
+
+---
+
+## 🌀 Active Skills
+
+### Skill 1 — Torture Technique (A) → Scorched Peony (A+ after Rank Up 1)
+- Base: DEF Down on a single enemy (3 turns)
+- Upgraded: adds a one-time Buff Nullify and a Burn DoT (3 turns) to the same enemy
+
+### Skill 2 — Imperial Privilege (B) → Great Empress (B+ after Rank Up 2)
+- Self HP recovery
+- 60% chance each for self ATK Up and self DEF Up (3 turns)
+- Upgraded: also grants party-wide Critical Strength Up and 10% NP Gauge Up (3 turns)
+
+### Skill 3 — Empress's Charisma (A)
+*Unlocks after 3rd Ascension*
+- Party-wide ATK Up (3 turns)
+- Quick Card effectiveness Up for all allies except herself (3 turns)
+
+---
+
+## ➕ Append Skills
+- **Extra Attack Boost** — increases Extra (Break) card damage
+- **Load Magical Energy** — start battle with charged NP gauge
+- **Anti-Berserker (ATK Up)** — bonus damage vs. Berserker-class enemies
+- **Special Attack Technique Improvement** — increases Critical Damage
+- **Skill Reload** — reduces cooldown by 1 on the first use of 1–3 skills per battle (scales with level)
+
+## 🛡️ Class Skills
+- **Presence Concealment (D)** — +4% Critical Star Drop Rate
+
+---
+
+## 💥 Noble Phantasm
+
+### Manual of Accusation (Rank B · Quick · Single Target)
+Deals single-target damage and inflicts Poison (1000 dmg/turn, 3 turns).
+> Overcharge: grants self Critical Strength Up (3 turns).
+
+**Upgrade 1** *(after Interlude 2)*: adds a post-damage buff removal on the target, on top of the base damage and Poison effect.
+
+---
+
+## 🧭 Quick Analysis
+
+Assassin of the Nightless City ("Wu Zetian") is a **hybrid Quick damage dealer and support**, unusual for an Assassin. Torture Technique and Empress's Charisma together give the whole team a strong single-target ATK boost plus extra Quick Card effectiveness, while her own Imperial Privilege can grant her a sizable (if RNG-based) self-buff. Her post-Interlude NP hits hard for an Assassin and adds useful buff removal.
+
+Her weaknesses: she has no reliable defensive tools beyond a chance-based buff from Imperial Privilege, she plays best when focused on herself with outside NP/star support rather than as a pure team support, and her card deck (only 1 Arts card, weak Extra) makes charging her NP repeatedly a challenge despite decent NP gain stats.
+
+**Recommended CEs:** Kaleidoscope / Imaginary Around for Starting NP Gauge (especially post-Interlude), The Black Grail / Heaven's Feel for max NP damage, Knights of Marines / Holy Night Supper for balanced stat boosts.
+
+**Skill priority:** Empress's Charisma (3) → Imperial Privilege (2) if used as main damage dealer → Torture Technique (1); level 6 on all is usually sufficient for general use.
+
+---
