@@ -702,3 +702,103 @@ Her main quirks: Melt Virus originally applied its NP Damage buff with a one-tur
 
 ---
 
+# 🏹 Orion — Servant #60
+
+<img src="https://static.mana.wiki/grandorder/060_Orion_Icon.png" width="120" align="right">
+
+| | |
+|---|---|
+| **Class** | ![Archer](https://static.mana.wiki/grandorder/FGOClassIcon_3_2_Gold_Archer.png) Archer |
+| **Rarity** | ⭐⭐⭐ (B) |
+| **Attribute** | Heaven |
+| **Alignment** | Chaotic Balanced |
+| **Alias** | Artemis |
+| **Origin** | Greece / Greek Mythology |
+| **Illustrator** | I-Ⅳ |
+| **Voice Actor** | Nobutoshi Canna & Miyuki Sawashiro |
+| **NA Release** | 2017-08-17 |
+
+*Note: Orion is the mascot bear-figure, while Artemis is the one actually fighting — but the unit is coded as Male for gameplay purposes and lacks the Divine trait.*
+
+---
+
+## 📊 Stats (Stage 4)
+
+| Stat | Base | Max | Lv 100 | Lv 120 |
+|---|---:|---:|---:|---:|
+| **ATK** | 1,716 | 11,107 | 12,158 | 14,271 |
+| **HP** | 2,134 | 14,553 | 15,943 | 18,738 |
+
+**Passive Ratios**
+| | |
+|---|---:|
+| NP Gain | 1% |
+| NP when Attacked | 3% |
+| Star Absorption | 153% |
+| Star Generation per Hit | 8% |
+| Instant Death Chance | 27% |
+
+**Command Cards:** 🟢 Quick ×3 · 🔵 Arts ×1 · 🟠 Buster ×1 · ⬛ Extra ×4 · NP: Arts
+
+**Parameters:** STR D · END C · AGL B · MP A · LUK A+ · NP A+
+
+---
+
+## 🃏 Traits
+Humanoid, Servant, Weak to Enuma Elish, Heaven or Earth, Greek Mythology Males, Male, Hominidae, Levitating
+
+---
+
+## 🌀 Active Skills
+
+### Skill 1 — Grace of the Goddess (EX)
+- Self DEF Up (1 turn)
+- Self ATK Up 20% (3 turns)
+- Self Debuff Resist Up 50% (3 turns)
+
+### Skill 2 — Punish the Unfaithful (A+)
+*Unlocks after 1st Ascension*
+- Self Special ATK bonus vs. Male-type enemies (1 turn)
+
+### Skill 3 — Mind's Eye (Fake) (B-) → Hunter's True Potential (A+ after Rank Up 1)
+*Unlocks after 3rd Ascension*
+- Base: Self Evade (1 turn), Self Critical Strength Up (3 turns)
+- *Upgraded (not yet available, ETA 2/2028):* adds Self NP Gauge Up and Self Arts Card effectiveness Up (3 turns), on top of the base Evade/Crit effects
+
+---
+
+## ➕ Append Skills
+- **Extra Attack Boost** — increases Extra (Break) card damage
+- **Load Magical Energy** — start battle with charged NP gauge
+- **Anti-Archer (ATK Up)** — bonus damage vs. Archer-class enemies
+- **Special Attack Technique Improvement** — increases Critical Damage
+- **Skill Reload** — reduces cooldown by 1 on the first use of 1–3 skills per battle (scales with level)
+
+## 🛡️ Class Skills
+- **Magic Resistance (D)** — +12.5% Debuff Resist
+- **Independent Action (A+)** — +11% Critical Strength
+
+---
+
+## 💥 Noble Phantasm
+
+### Tri-Star Amore Mio (Rank A+ · Arts · Single Target)
+Deals heavy single-target damage and lowers the target's ATK by 20% (3 turns).
+> Overcharge: chance to reduce the target's NP Charge.
+
+**Upgrade 1** *(after Interlude 2)*: NP Charge reduction becomes guaranteed rather than chance-based; Overcharge effect changes to a guaranteed Critical Rate Down on the target (3 turns).
+
+---
+
+## 🧭 Quick Analysis
+
+Orion (Artemis) is a **single-target Arts damage dealer** specializing in anti-male damage and a stalling playstyle, thriving in Arts-support teams. A powerful, if short-lived, anti-Male buff from Punish the Unfaithful can devastate male enemies (especially Sabers), while Mind's Eye's Evade plus the NP's ATK/Crit-Rate debuffs and high HP give it strong staying power even without direct healing. Post-Interlude, the NP's guaranteed NP Charge reduction on the enemy also buys extra time for cooldowns.
+
+Its main quirks: despite being an Arts unit, its single-hit Arts card generates poor NP gain, so it actually relies more on Quick/Extra cards and Arts-chain support from teammates to charge its NP consistently. Both its Anti-Male bonus and Defense buff last only 1 turn each despite a ~5-turn cooldown, requiring careful timing.
+
+**Recommended CEs:** Golden Sumo / Holy Night Supper / Kaleidoscope for hybrid Starting NP, Another Ending / Leisure Stroll for critical-focused builds, The Black Grail / Cute Orangette for max NP damage against non-male targets.
+
+**Skill priority:** Punish the Unfaithful (2) or Mind's Eye (3) first depending on role (anti-male burst vs. general DPS stall) → the other → Grace of the Goddess (1, safe to level last).
+
+---
+
