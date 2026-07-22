@@ -598,3 +598,107 @@ Her weaknesses are largely about self-sufficiency: her own NP refund and star ge
 **Skill priority:** Divine Power / Pseudonym Dragon-Crested Octopus (roughly tied, depending on whether instant-NP setups are desired) → Father-Daughter Connection (lowest priority).
 
 ---
+
+# 💜 Meltryllis — Servant #163
+
+<img src="https://static.mana.wiki/grandorder/163_Meltryllis_Icon.png" width="120" align="right">
+
+| | |
+|---|---|
+| **Class** | ![Alter Ego](https://static.mana.wiki/grandorder/FGOClassIcon_3_10_Gold_AlterEgo.png) Alter Ego |
+| **Rarity** | ⭐⭐⭐⭐ (A) |
+| **Attribute** | Earth |
+| **Alignment** | Lawful Good |
+| **Alias** | Meltilith |
+| **Series** | Fate/EXTRA CCC |
+| **Illustrator** | WADARCO |
+| **Voice Actor** | Saori Hayami |
+| **NA Release** | 2019-04-23 |
+
+---
+
+## 📊 Stats (Stage 4)
+
+| Stat | Base | Max | Lv 100 | Lv 120 |
+|---|---:|---:|---:|---:|
+| **ATK** | 1,807 | 11,692 | 12,799 | 15,023 |
+| **HP** | 1,965 | 13,402 | 14,682 | 17,256 |
+
+**Passive Ratios**
+| | |
+|---|---:|
+| NP Gain | 0.92% |
+| NP when Attacked | 4% |
+| Star Absorption | 100% |
+| Star Generation per Hit | 10.2% |
+| Instant Death Chance | 30% |
+
+**Command Cards:** 🟢 Quick ×4 · 🔵 Arts ×2 · 🟠 Buster ×1 · ⬛ Extra ×6 · NP: Quick
+
+**Parameters:** STR E · END C · AGL A+ · MP A · LUK B · NP EX
+
+---
+
+## 🃏 Traits
+Divine, Heaven or Earth, Female, Humanoid, Riding, Servant, Mechanical, Weak to Enuma Elish, Has Goddess Metamorphosis, Sakura Series
+
+---
+
+## 🌀 Active Skills
+
+### Skill 1 — Crime Ballet (A) → (A+ after Rank Up 3)
+- Self Evade ×2 (3 turns)
+- Gain Critical Stars (instant)
+- *Upgraded:* also adds Self NP Gauge Up
+
+### Skill 2 — Sadistic Streak (A) → (A+ after Rank Up)
+*Unlocks after 1st Ascension*
+- Self ATK Up (3 turns)
+- Self DEF Down 10% (3 turns) [Demerit]
+- *Upgraded:* also grants Self Critical Strength Up (15%, 3 turns) whenever she normal-attacks
+
+### Skill 3 — Melt Virus (EX) → (EX after Rank Up)
+*Unlocks after 3rd Ascension*
+- Base: NP Strength Down on all enemies (1 turn); NP Strength Down 50% on all allies except herself (1 turn) [Demerit]; then, after a 1-turn delay, Self NP Strength Up 20% (1 turn)
+- *Upgraded:* removes the delay — Self NP Strength Up now applies immediately (2 turns), with the same enemy/ally NP-down effects
+
+---
+
+## ➕ Append Skills
+- **Extra Attack Boost** — increases Extra (Break) card damage
+- **Load Magical Energy** — start battle with charged NP gauge
+- **Anti-Lancer (ATK Up)** — bonus damage vs. Lancer-class enemies
+- **Special Attack Technique Improvement** — increases Critical Damage
+- **Skill Reload** — reduces cooldown by 1 on the first use of 1–3 skills per battle (scales with level)
+
+## 🛡️ Class Skills
+- **Magic Resistance (B)** — +17.5% Debuff Resist
+- **Riding (B)** — +8% Quick Card effectiveness
+- **Independent Action (A)** — +10% Critical Strength
+- **Core of the Goddess (B)** — flat bonus card damage (+225 total) and +22.5% Debuff Resist
+- **High Servant (A)** — no effect
+
+---
+
+## 💥 Noble Phantasm
+
+### Sarasvati Meltout (Rank EX · Quick · Single Target)
+Deals single-target damage, then removes buffs from the target (after damage).
+> Overcharge: grants self Quick Card effectiveness Up (3 turns).
+
+**Upgrade 1** *(after Rank Up 4 — not yet available, ETA 10/2026)*: reorders effects so buff removal activates first, followed by damage; Overcharge Quick buff also activates first.
+
+---
+
+## 🧭 Quick Analysis
+
+Meltryllis is a **single-target Quick nuker** with some of the highest raw NP damage potential in the game, backed by a full spread of buff types across her kit (ATK Up, NP Damage Up, and a Quick Card buff from her NP). Her NP's post-damage buff removal adds valuable utility against tough bosses, and her high-hit-count Quick and Extra cards make for strong NP gain and star generation, letting her fire off repeat NPs quickly.
+
+Her main quirks: Melt Virus originally applied its NP Damage buff with a one-turn delay (fixed post-Rank Up, where it now applies immediately), and as an Alter Ego she only gets her 1.5x class advantage against Cavalry-class enemies rather than the usual 2x against her "natural" targets, making her less ideal in single-class Rider/Caster/Assassin nodes.
+
+**Recommended CEs:** The Black Grail / Heaven's Feel / Cute Orangette for max NP damage, Knights of Marines / Holy Night Supper for hybrid stat boosts, Kaleidoscope / The Imaginary Element for early Starting NP.
+
+**Skill priority:** Sadistic Streak (2) → Crime Ballet (1) → Melt Virus (3, low priority pre-Rank Up, worth maxing post-Rank Up).
+
+---
+
