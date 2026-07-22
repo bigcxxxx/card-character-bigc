@@ -501,3 +501,100 @@ Her weaknesses: she has no reliable defensive tools beyond a chance-based buff f
 **Skill priority:** Empress's Charisma (3) → Imperial Privilege (2) if used as main damage dealer → Torture Technique (1); level 6 on all is usually sufficient for general use.
 
 ---
+
+# 🐙 Katsushika Hokusai (Saber) — Servant #264
+
+<img src="https://static.mana.wiki/grandorder/264_Katsushika_Hokusai_Saber_Icon.png" width="120" align="right">
+
+| | |
+|---|---|
+| **Class** | ![Saber](https://static.mana.wiki/grandorder/FGOClassIcon_3_1_GoldSaber.png) Saber |
+| **Rarity** | ⭐⭐⭐⭐ (A) |
+| **Attribute** | Human |
+| **Alignment** | Chaotic Good |
+| **Origin** | Japan |
+| **Illustrator** | Kouhaku Kuroboshi |
+| **Voice Actor** | Yukana |
+| **JP Release** | 2019-08-14 |
+| **NA Release** | 2021-07-29 |
+| **Availability** | Welfare (free from event completion) |
+
+---
+
+## 📊 Stats (Stage 4)
+
+| Stat | Base | Max | Lv 100 | Lv 120 |
+|---|---:|---:|---:|---:|
+| **ATK** | 1,564 | 9,389 | 11,368 | 13,348 |
+| **HP** | 1,899 | 11,873 | 14,396 | 16,919 |
+
+**Passive Ratios**
+| | |
+|---|---:|
+| NP Gain | 0.46% |
+| NP when Attacked | 3% |
+| Star Absorption | 99% |
+| Star Generation per Hit | 10% |
+| Instant Death Chance | 28.8% |
+
+**Command Cards:** 🟢 Quick ×4 · 🔵 Arts ×4 · 🟠 Buster ×4 · ⬛ Extra ×5 · NP: Arts
+
+**Parameters:** STR C · END C- · AGL C · MP B- · LUK B · NP B
+
+---
+
+## 🃏 Traits
+Humanoid, Servant, Divine, Threat to Humanity, Female, Hominidae, Summer Form
+
+---
+
+## 🌀 Active Skills
+
+### Skill 1 — Divine Power (Ink) (C)
+- Self NP Gauge Up
+- Gain Critical Stars (instant)
+
+### Skill 2 — Father-Daughter Connection (B)
+*Unlocks after 1st Ascension*
+- Self Critical Star Gather Rate Up (3 turns)
+- Self Guts, one-time (3 turns)
+
+### Skill 3 — Pseudonym, Dragon-Crested Octopus (B)
+*Unlocks after 3rd Ascension*
+- Self Arts Card effectiveness Up (3 turns)
+- Whenever she lands a critical hit, gains Critical Strength Up (3 turns)
+
+---
+
+## ➕ Append Skills
+- **Extra Attack Boost** — increases Extra (Break) card damage
+- **Load Magical Energy** — start battle with charged NP gauge
+- **Anti-Foreigner (ATK Up)** — bonus damage vs. Foreigner-class enemies
+- **Special Attack Technique Improvement** — increases Critical Damage
+- **Skill Reload** — reduces cooldown by 1 on the first use of 1–3 skills per battle (scales with level)
+
+## 🛡️ Class Skills
+- **Magic Resistance (C)** — +15% Debuff Resist
+- **Divinity (E)** — flat bonus card damage (+100 total)
+
+---
+
+## 💥 Noble Phantasm
+
+### A Tour of Waterfalls in Various Provinces (Rank B · Arts · Single Target)
+Deals heavy single-target damage across 8 hits.
+> Overcharge: grants self NP Strength Up (1 turn) — resolves first.
+
+---
+
+## 🧭 Quick Analysis
+
+Katsushika Hokusai (Saber) is a **single-target Arts nuker** known for launching with an effectively guaranteed NP5 as a welfare Servant, giving her a strong offensive baseline out of the gate. Her NP's own damage buff, combined with Skill 3's Arts Performance boost, pushes her NP damage very high, and she also carries solid critical-oriented tools (instant stars, Star Absorption, and Critical Damage Up) making her a capable crit damage dealer with the right support.
+
+Her weaknesses are largely about self-sufficiency: her own NP refund and star generation aren't enough on their own for repeat NPs, and she has no innate healing or defense tools beyond a one-time Guts, meaning she leans on external Arts supports (an Altria Caster pairing is often cited as ideal) for both offense and survivability.
+
+**Recommended CEs:** Dive to Blue / Holy Night Supper / Painting Summer (hybrid Starting NP + offense), Kaleidoscope / The Imaginary Element (early or instant NP), The Black Grail for maximum damage with a well-supported team.
+
+**Skill priority:** Divine Power / Pseudonym Dragon-Crested Octopus (roughly tied, depending on whether instant-NP setups are desired) → Father-Daughter Connection (lowest priority).
+
+---
