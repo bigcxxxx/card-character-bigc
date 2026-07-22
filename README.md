@@ -306,3 +306,102 @@ Her main gaps are a lack of any Critical-support tools and no healing or DEF buf
 
 ---
 
+# 🐍 Medusa — Servant #23
+
+<img src="https://static.mana.wiki/grandorder/023_Medusa_Icon.png" width="120" align="right">
+
+| | |
+|---|---|
+| **Class** | ![Rider](https://static.mana.wiki/grandorder/FGOClassIcon_3_4_Gold_Rider.png) Rider |
+| **Rarity** | ⭐⭐⭐ (C+) |
+| **Attribute** | Earth |
+| **Alignment** | Chaotic Good |
+| **Alias** | Rider |
+| **Origin** | Greece / Greek Mythology |
+| **Illustrator** | Takashi Takeuchi |
+| **Voice Actor** | Yuu Asakawa |
+| **Release** | Available since game launch (NA) |
+
+---
+
+## 📊 Stats (Stage 4)
+
+| Stat | Base | Max | Lv 100 | Lv 120 |
+|---|---:|---:|---:|---:|
+| **ATK** | 1,337 | 7,200 | 9,744 | 11,444 |
+| **HP** | 1,608 | 8,937 | 12,117 | 14,243 |
+
+**Passive Ratios**
+| | |
+|---|---:|
+| NP Gain | 0.58% |
+| NP when Attacked | 3% |
+| Star Absorption | 194% |
+| Star Generation per Hit | 9% |
+| Instant Death Chance | 35% |
+
+**Command Cards:** 🟢 Quick ×2 · 🔵 Arts ×3 · 🟠 Buster ×1 · ⬛ Extra ×3 · NP: Quick
+
+**Parameters:** STR B · END D · AGL A · MP B · LUK E · NP A+
+
+---
+
+## 🃏 Traits
+Humanoid, Servant, Female, Riding, Divine, Heaven or Earth, Weak to Enuma Elish, Snake, Divine Spirit
+
+---
+
+## 🌀 Active Skills
+
+### Skill 1 — Mystic Eyes (A+)
+- Chance to Stun a single enemy (1 turn), with no restrictions on target
+
+### Skill 2 — Monstrous Strength (B)
+*Unlocks after 1st Ascension*
+- Self ATK Up (2 turns)
+
+*(Upgrades to **Basilisk Morph (B)** after Rank Up 3 — ETA 1/2027 — adding Self Crit Strength Up and bonus damage vs. Immobilized enemies, both for 3 turns)*
+
+### Skill 3 — Blood Fort Andromeda (B)
+*Unlocks via Rank Up Quest*
+- Self NP Gauge Up (20%)
+- Self NP Gain Up (3 turns)
+
+---
+
+## ➕ Append Skills
+- **Extra Attack Boost** — increases Extra (Break) card damage
+- **Load Magical Energy** — start battle with charged NP gauge
+- **Anti-Saber (ATK Up)** — bonus damage vs. Saber-class enemies
+- **Special Attack Technique Improvement** — increases Critical Damage
+- **Skill Reload** — reduces cooldown by 1 on the first use of 1–3 skills per battle (scales with level)
+
+## 🛡️ Class Skills
+- **Magic Resistance (B)** — +17.5% Debuff Resist
+- **Independent Action (C)** — +6% Critical Strength
+- **Divinity (E-)** — flat bonus card damage (+95 total)
+- **Riding (A+)** — +11% Quick Card effectiveness
+
+---
+
+## 💥 Noble Phantasm
+
+### Bellerophon (Rank A+ · Quick · All Enemies)
+Deals heavy AoE damage to all enemies.
+> Overcharge: grants party-wide Critical Star Drop Rate Up (3 turns).
+
+**Upgrade 1** *(after Rank Up Quest 2)* adds a 20% Critical Rate Down debuff on all enemies (3 turns), on top of the base effect.
+
+---
+
+## 🧭 Quick Analysis
+
+Medusa is best known as a **budget AoE Quick farmer**, particularly effective against Caster-heavy stages. Her Blood Fort Andromeda skill grants an instant 20% NP charge, letting her fire off Bellerophon early with a Starting NP CE, and her Mystic Eyes skill gives her one of the few unrestricted single-target Stuns in the game — useful for shutting down a dangerous enemy for a turn.
+
+Her weaknesses are notable: a QQAAB card deck makes sustained single-target damage difficult, she has no real survivability tools beyond her Stun, and her low Quick hit count means poor star generation despite being a Quick-type Servant. She's best suited for quick clears rather than tough, prolonged fights.
+
+**Recommended CEs:** Kaleidoscope / The Imaginary Element (early NP access), The Black Grail / Origin Bullet (max AoE damage), Holy Night Supper / Knights of Marines (hybrid options when paired with NP-charging support).
+
+**Skill priority:** Monstrous Strength (2) → Mystic Eyes (1) → Blood Fort Andromeda (3, can stay at Lv.1 for farming).
+
+---
