@@ -207,4 +207,102 @@ Her main drawbacks: her bonus Charm damage is best saved for the last wave when 
 
 ---
 
+# 🔔 Altria Caster — Servant #284
+
+<img src="https://static.mana.wiki/grandorder/284_Altria_Caster_Icon.png" width="120" align="right">
+
+| | |
+|---|---|
+| **Class** | ![Caster](https://static.mana.wiki/grandorder/FGOClassIcon_3_5_Gold_Caster.png) Caster |
+| **Rarity** | ⭐⭐⭐⭐⭐ (EX) |
+| **Attribute** | Star |
+| **Alignment** | Neutral Good |
+| **Alias** | Artoria Caster |
+| **Illustrator** | Takashi Takeuchi |
+| **Voice Actor** | Ayako Kawasumi |
+| **JP Release** | 2020-08-10 |
+| **NA Release** | 2022-08 |
+
+---
+
+## 📊 Stats (Stage 4)
+
+| Stat | Base | Max | Lv 100 | Lv 120 |
+|---|---:|---:|---:|---:|
+| **ATK** | 1,629 | 10,546 | 11,544 | 13,551 |
+| **HP** | 2,112 | 14,406 | 15,782 | 18,549 |
+
+**Passive Ratios**
+| | |
+|---|---:|
+| NP Gain | 0.54% |
+| NP when Attacked | 3% |
+| Star Absorption | 50% |
+| Star Generation per Hit | 11% |
+| Instant Death Chance | 36% |
+
+**Command Cards:** 🟢 Quick ×3 · 🔵 Arts ×3 · 🟠 Buster ×3 · ⬛ Extra ×5 · NP: Arts
+
+**Parameters:** STR B · END D · AGL B · MP A · LUK B · NP A++
+
+---
+
+## 🃏 Traits
+Humanoid, Servant, Female, Arthur, Saberface, Knights of the Round Table
+
+---
+
+## 🌀 Active Skills
+
+### Skill 1 — Charisma of Hope (B)
+- Party-wide ATK Up (3 turns)
+- Party-wide NP Gauge Up
+
+### Skill 2 — Protection of the Lake (A)
+*Unlocks after 1st Ascension*
+- NP Gauge Up for one ally
+- Party-wide NP Gain Up (3 turns)
+
+### Skill 3 — Sword of Selection (EX)
+*Unlocks after 3rd Ascension*
+- Arts Card effectiveness Up for one ally (3 turns)
+- Grants that ally bonus damage vs. "Threat to Humanity" enemies (3 turns)
+- Grants that ally Invincibility (1 turn)
+
+---
+
+## ➕ Append Skills
+- **Extra Attack Boost** — increases Extra (Break) card damage
+- **Load Magical Energy** — start battle with charged NP gauge
+- **Anti-Saber (ATK Up)** — bonus damage vs. Saber-class enemies
+- **Special Attack Technique Improvement** — increases Critical Damage
+- **Skill Reload** — reduces cooldown by 1 on the first use of 1–3 skills per battle (scales with level)
+
+## 🛡️ Class Skills
+- **Magic Resistance (A)** — +20% Debuff Resist
+- **Territory Creation (EX)** — +12% Arts Card effectiveness
+- **Unique Magecraft (B)** — +10% Arts Card Critical Strength
+- **Fae Eyes (A)** — +20% Critical Chance Resist *(unlocks after clearing Lostbelt No.6)*
+
+---
+
+## 💥 Noble Phantasm
+
+### Around Caliburn — All Ascensions (Rank A · Arts · All Allies)
+Grants party-wide ATK Up (3 turns) and clears debuffs from all allies.
+> Overcharge: applies an Anti-Enforcement Defense buff (damage reduced to 0, ignores "Ignore Invincible") that can absorb 1+ hits over 3 turns — the number of hits scales with Overcharge level.
+
+---
+
+## 🧭 Quick Analysis
+
+Altria (Caster) is widely regarded as one of the best **support Servants** in the game, built around powerful NP charge (up to 30% party-wide, 50% single-target) and a huge Arts Card effectiveness buff. Paired with her own strong NP damage and debuff-clearing utility, she enables reliable Arts NP looping — even letting damage dealers run offense-focused CEs like The Black Grail instead of Starting NP gauge CEs. Her NP's Anti-Enforcement Defense buff also functions as a multi-hit, party-wide Invincible that ignores "Ignore Invincible," making her excellent defensively too.
+
+Her main gaps are a lack of any Critical-support tools and no healing or DEF buffs, which can matter in longer, high-HP fights — though these weaknesses are usually easy to cover with a second, more specialized support.
+
+**Recommended CEs:** Flexible Bond/Event CEs (she doesn't need offensive CEs herself), Dragon's Meridian / Kaleidoscope for Starting NP if needed, A Fragment of 2030 for star generation, Taunt CEs (GUDAGUDA Poster Girl, Halloween Arrangement) if used as a switch-in.
+
+**Skill priority:** Sword of Selection (3) → Protection of the Lake (2) → Charisma of Hope (1) — though all three are recommended to max eventually.
+
+---
 
